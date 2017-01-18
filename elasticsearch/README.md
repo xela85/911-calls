@@ -1,5 +1,10 @@
 # 911 Calls avec ElasticSearch
 
+## Elèves
+
+GIMENEZ Nathanaël<br>
+LEBRUN Alexandre
+
 ## Import du jeu de données
 
 Pour importer le jeu de données, complétez le script `import.js` (ici aussi, cherchez le `TODO` dans le code :wink:).

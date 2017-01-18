@@ -1,5 +1,10 @@
 # 911 Calls avec MongoDB
 
+## Elèves
+
+GIMENEZ Nathanaël<br>
+LEBRUN Alexandre
+
 ## Import du jeu de données
 
 Pour importer le jeu de données, complétez le script `import.js` (cherchez le `TODO` dans le code :wink:).
